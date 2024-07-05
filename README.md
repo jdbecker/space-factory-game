@@ -36,9 +36,10 @@ perform as long as their salary continues to be paid. Tasks like:
     - consruction
 - combat (protect me, join my wing)
 
-Using all this, the player will eventually build their own little empire, buliding more
+Using all this, the player will eventually build their own little empire! Buliding more
 and more powerful ships, they will fit a more and more powerful fleet which they'll be
 able to use to clear more and more powerful enemies from guarding the keys to unlocking
 new technologies.
 
-
+The game takes the form of a single-stick shooter (top-down view, 2-dimensional
+controls). 
